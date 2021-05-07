@@ -25,7 +25,7 @@ void VectorDoubler<T>::call(vector<T>& output_vector, int times)
 		output_vector[i] = vector_copy[i] * pow(2, times);
 
 	}
-	
+	//somthng new added
 }
 
 template<class T>
