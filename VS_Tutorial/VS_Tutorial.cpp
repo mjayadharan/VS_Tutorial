@@ -13,6 +13,9 @@ VectorDoubler<T>::VectorDoubler(vector<T> input_vect):
 {
 }
 
+//Small change unnoticed and I am addng some more things here .
+//and here as well.
+
 template<class T>
 void VectorDoubler<T>::call(vector<T>& output_vector, int times)
 {
